@@ -4,6 +4,9 @@
 
 **Contact**: yyu56253@usc.edu, jcarlsso@usc.edu
 
+> **New:** [Lean proof that β₂ < 0.93](lean/), a machine-checked Lean 4 / Mathlib
+> formalization of the Beardwood–Halton–Hammersley strip bound. See `lean/README.md` to verify it.
+
 ## Description
 
 This paper presents a computer-aided proof of a novel approach to constructing a new upper bound for the Euclidean Traveling Salesman Problem (TSP) Constant, leveraging numerical methods and decision trees. While the improvement achieved is modest, the approach offers a key advantage: it is primarily constrained by computer hardware, making it highly amenable to further optimization and advancements over time. 
